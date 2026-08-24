@@ -1,3 +1,1 @@
-# Website
-
-Website files for the Contoso Coffee solution.
+# COFFEE-SHOP-WEBSITE
